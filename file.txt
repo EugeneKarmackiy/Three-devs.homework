@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-First Developer, Second Developer, Mr.Third Developer
-=======
-Mr.First Developer, Mr.Second Developer, Third Developer
->>>>>>> f4e6bd610042b576b4141ca54643859d96b5ec3e
+Mr.First Developer, Mr.Second Developer, Mr.Third Developer
