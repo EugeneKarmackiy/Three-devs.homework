@@ -1,1 +1,1 @@
-Mr.First, Mr.Second, Mr.Third
+Первый Разработчик, Mr.Second, Mr.Third
