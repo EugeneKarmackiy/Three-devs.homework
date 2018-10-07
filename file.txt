@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Первый Разработчик, Mr.Second, Mr.Third
 =======
 Mr.First, Второй Разработчик, Mr.Third
 >>>>>>> S: name changed
+=======
+Mr.First, Mr.Second, Третий Разработчик
+>>>>>>> T: name changed
